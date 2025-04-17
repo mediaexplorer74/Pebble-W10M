@@ -42,7 +42,8 @@ You may see some random Toast Notifications about the SocketActivityTriggerDetai
 ## License
 Licensed by the GNU General Public License 3 available here https://raw.githubusercontent.com/bitrvmpd/Pebble-W10/master/LICENSE
 
-## References & Credits- https://github.com/bitrvmpd/Pebble-W10M Original project
+## References & Credits
+- https://github.com/bitrvmpd/Pebble-W10M Original project
 - https://github.com/bitrvmpd Eduardo Noyer aka bitrvmpd, author &developer of original project 
 - This program uses a modified [P3bble Library](https://github.com/p3root/P3bble)
 
